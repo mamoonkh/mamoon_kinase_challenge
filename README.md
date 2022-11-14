@@ -2,7 +2,14 @@
 
 The Mamoon_kinase_challenge_data.ipynb contains all the code including data preprocessing, model creation and training.
 
+The following libraries are required
 ```
-Python
 Numpy
+Scipy
+Pandas
+Matplotlib
+sklearn
+rdkit
+Pytorch
+Pytorch Geometric
 ```
